@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "sonarsource.sonarlint-vscode",
+    "antfu.iconify",
+    "csstools.postcss",
+    "vue.volar",
+    "dbaeumer.vscode-eslint",
+    "redjue.git-commit-plugin"
+  ]
+}
